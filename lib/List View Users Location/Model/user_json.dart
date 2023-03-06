@@ -10,6 +10,7 @@ List users = [
       "city": "Gwenborough",
       "zipcode": "92998-3874",
       "geo": {"lat": "11.078302679641409", "lng": "76.98962885138272"}
+      // Changed the Lat and Lng
     },
     "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org",
@@ -30,6 +31,7 @@ List users = [
       "city": "Wisokyburgh",
       "zipcode": "90566-7771",
       "geo": {"lat": "11.06410936577399", "lng": "77.01078611518889"}
+      // Changed the Lat and Lng
     },
     "phone": "010-692-6593 x09125",
     "website": "anastasia.net",
